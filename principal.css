@@ -1,0 +1,9 @@
+.titulo2 {
+    color: blueviolet;
+}
+/* esta es la forma de hace comentarios en css*/
+/*class*/
+.parrafo1 {color: red;
+   font-size: 40px; margin-bottom: 20px; margin-left: 50%;}
+   /*id*/
+   #parrafo2 {color: aquamarine;}
