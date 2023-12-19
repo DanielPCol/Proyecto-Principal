@@ -38,3 +38,8 @@ body
     text-align: center;
 }
 
+#footer {
+    text-align: center;
+    font-family:"Arial" ; color: rgb(255, 187, 0);
+
+}
