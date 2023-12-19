@@ -1,9 +1,39 @@
-.titulo2 {
-    color: blueviolet;
+body
+{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family:"Arial" ;
+    margin: 0;
+    padding: 0;
+    
 }
+
 /* esta es la forma de hace comentarios en css*/
 /*class*/
-.parrafo1 {color: red;
-   font-size: 40px; margin-bottom: 20px; margin-left: 50%;}
-   /*id*/
-   #parrafo2 {color: aquamarine;}
+
+.content
+{
+    Width: 70%;
+    padding: 0;
+    text-align: center;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+.firsttool
+{
+    background: rgb(146, 116, 198);
+    box-shadow: 0px 2px 20px 0px grey(0,0,0,0.5);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+.firsttool .name
+{
+    padding: 0 0 0 1em;
+    font-weight:  normal;
+    font-size: 0.8em;
+    text-align: center;
+}
+
