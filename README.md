@@ -1,6 +1,6 @@
 Hello there,
 
-My name is daniel, now I have 31 years old and I from Bogotá, Colombia.
+My name is Daniel, now I have 31 years old and I am from Bogotá, Colombia.
 
 This is my first repository in GibHub and my first project where i put all i learning trhough the course full stack developer in JS ,css and html at Platzi.
 
