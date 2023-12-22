@@ -7,7 +7,7 @@ body
     font-size: 16px;
     margin: 0;
     padding: 0; 
-    border: 3px solid color(srgb rgb(0, 139, 246) green blue)
+    border: 10px solid color(srgb rgb(0, 139, 246) green blue);
     
 }
 
@@ -27,11 +27,29 @@ body
     text-align: center;
     border: 1px solid #ddd;
     margin: 0 auto;
+    
 }
 
 #contact 
 {
     font-family: cursive;
+}
+#titleresume
+
+{
+    font-family: cursive;
+}
+
+#resume
+{
+    font-family: century;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    
+    border: 1px solid #57187c;
+   
+   
 }
 .firsttool
 {
