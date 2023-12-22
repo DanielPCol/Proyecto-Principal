@@ -23,6 +23,10 @@ body
     margin: 0 auto;
 }
 
+#contact 
+{
+    font-family: cursive;
+}
 .firsttool
 {
     background: url("imagenes/computador.jpg") no-repeat center center;
@@ -44,6 +48,12 @@ body
 {
     width: 5px ;
     vertical-align: middle;
+}
+
+#logos #computador
+{
+    background-image: url("./imagenes/correo.png") ;
+    
 }
 
 #footer {
