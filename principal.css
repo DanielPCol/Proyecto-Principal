@@ -46,15 +46,29 @@ body
     text-align: justify;
     margin: 0;
     padding: 0;
-    
     border: 1px solid #57187c;
    
    
 }
+
+#logos
+
+{
+    font-family: century;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #57187c;
+}
+
+#marklogo
+
+{
+   background: url("./imagenes/location\ mark.png"); 
+}
 .firsttool
 {
     background: url("imagenes/computador.jpg") no-repeat center center;
-    box-shadow: 0px 2px 20px 0px grey(0,0,0,0.5);
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0);
     color: rgb(255, 255, 255); 
     font-weight: bold;
     margin: 0;
