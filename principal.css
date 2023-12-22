@@ -11,6 +11,12 @@ body
     
 }
 
+#perfil 
+{
+    background-image: url("./imagenes/perfil.jpg");
+    size: 5cm;
+}
+
 /* esta es la forma de hace comentarios en css*/
 /*class*/
 
@@ -72,7 +78,7 @@ body
     margin: 0 0 0 1em;
     font-weight: normal;
     font-family: 'Courier New', Courier, monospace;
-    color: rgb(200, 160, 0);
+    color: rgb(255, 255, 255);
     font-size: 0.4cm;
     padding: 0;
    
