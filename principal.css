@@ -29,11 +29,7 @@ body
 }
 .firsttool
 {
-<<<<<<< HEAD
-    background: rgb(140, 73, 255);
-=======
     background: url("imagenes/computador.jpg") no-repeat center center;
->>>>>>> main
     box-shadow: 0px 2px 20px 0px grey(0,0,0,0.5);
     color: rgb(255, 255, 255); 
     font-weight: bold;
