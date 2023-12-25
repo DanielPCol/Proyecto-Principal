@@ -51,6 +51,22 @@ body
    
 }
 
+#titleformation 
+{
+    font-family: cursive; 
+}
+
+#formation 
+{
+    font-family: century;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #317c18;
+   
+   
+}
+
 #logos
 
 {
